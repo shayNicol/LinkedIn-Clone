@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html",
+    "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
   "repository": {
@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/Multiverse-IMHC/LinkedIn-Clone#readme",
   "dependencies": {
-    "parcel": "^2.8.0"
+    "parcel": "^2.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.4.3"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }
