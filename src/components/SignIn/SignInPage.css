@@ -62,8 +62,8 @@ a:hover {
     /* margin-left: auto; */
 }
 .hero>img {
-    width: 900px;
-    height: 900px;
+    width: 800px;
+    height: 800px;
     position: absolute;
     bottom: -2px;
     left: 40%;
@@ -89,7 +89,7 @@ a:hover {
 
 .signin:hover{
     border: 2px solid transparent;
-    color:#0a66c2; 
+    color:#1567ba; 
     transform-style:(1.05);
 }
 
